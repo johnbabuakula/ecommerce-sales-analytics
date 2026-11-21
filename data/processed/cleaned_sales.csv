@@ -1,0 +1,11 @@
+OrderID,Customer,Product,Quantity,Price,City
+101,John,Laptop,1,50000.0,Hyderabad
+102,Ravi,Mobile,2,20000.0,Bengaluru
+103,Kumar,Headphones,1,2000.0,Chennai
+104,Priya,Keyboard,2,1500.0,Hyderabad
+105,Unknown,Mouse,3,500.0,Pune
+106,Arun,Monitor,1,12000.0,Chennai
+107,Sneha,Laptop,1,50000.0,Hyderabad
+108,Rahul,Mobile,2,2000.0,Bengaluru
+109,Meena,Mouse,4,500.0,Pune
+110,Anil,Keyboard,1,1500.0,Unknown
